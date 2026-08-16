@@ -48,7 +48,7 @@ def get_response(text):
 
     # ---- Bot's name ----
     elif "your name" in text:
-        return "I'm SAM Bot, a simple rule-based chatbot."
+        return "I'm a Bot, a simple rule-based chatbot."
 
     # ---- Thanks ----
     elif "thank" in text:
@@ -130,7 +130,7 @@ def get_response(text):
 
 
 # ---------------- Startup message ----------------
-print("Chat Bot: Hi! I'm SAM Bot. Here's what I can do:")
+print("Chat Bot: Hi! I'm a simple rule-based chatbot. Here's what I can do:")
 print("  • Greet you (hi, hello)")
 print("  • Tell you the time or date")
 print("  • Share a Python/AI fact (type 'fact')")
