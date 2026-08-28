@@ -1,6 +1,6 @@
 # Chatbot with Rule-Based Responses
 
-A simple console-based chatbot built in Python using rule-based logic (if-elif pattern matching). Built as part of the **SAM AI Technologies Internship Program** (Artificial Intelligence track — Task 1).
+A simple console-based chatbot built in Python using rule-based logic (if-elif pattern matching). 
 
 ## Features
 
